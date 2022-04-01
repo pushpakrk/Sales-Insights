@@ -48,12 +48,17 @@ In this same manner our project is going to be executed. We are going to fetch t
 
 ## Steps taken while creating this project.
 1. Data Analysis using SQL.
+ 
   A. Import Data to MySQL workbench.
-  B. Simple analysis of data by looking into different tables and reflecting garbage values.
-  C. Primary analysis of data base by running different SQL statements.
   
+  B. Simple analysis of data by looking into different tables and reflecting garbage values.
+  
+  C. Primary analysis of data base by running different SQL statements.  
+
 2.Data Cleaning and ETL (extract transform load).
+
   A. Connect MySQL with the PowerBI dektop.
+  
   B. Load the data into the PowerBI desktop.
   
 3. Build a Dashboard or a Report.
