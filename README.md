@@ -22,7 +22,7 @@ Hence, by using such tools and technology one can make data driven decisions whi
 
 So, in this project we will help a company make its own sales related dashboard using PowerBI.
 
-# Data Discovery
+## Data Discovery
 Project planning using AIMS grid –
 AIMS grid: It is a project management tool which consists of four components to it.
 
@@ -38,5 +38,24 @@ In our case the end result will be the dashboard created and success criteria wi
 Flowchart of the project execution
 ![image](https://user-images.githubusercontent.com/93335175/161311070-1011c738-d8eb-4edd-b67a-914e158ba12b.png)
 
-# How will the company work
 
+## How will the company work
+There is a team of software engineers (falcons) which owns sales management system. The records of this system are stored in MySQL database.
+
+The team of Data Analyst (Data masters) reaches out to the software engineers to get an access to data base which they can use to create the dashboard in PowerBI.
+
+In this same manner our project is going to be executed. We are going to fetch the data from the database from company’s website and then we are going to transform and load the data in the PowerBI to build the dashboard.
+
+## Steps taken while creating this project.
+1. Data Analysis using SQL.
+  A. Import Data to MySQL workbench.
+  B. Simple analysis of data by looking into different tables and reflecting garbage values.
+  C. Primary analysis of data base by running different SQL statements.
+  
+2.Data Cleaning and ETL (extract transform load).
+  A. Connect MySQL with the PowerBI dektop.
+  B. Load the data into the PowerBI desktop.
+  
+3. Build a Dashboard or a Report.
+
+4. Publishing the Report.
