@@ -6,10 +6,10 @@ Power BI Dashboard for the sales manager of a company to help him tracking sales
 
 
 
-# Problem Statement
+## Problem Statement
 AtliQ hardware is a company in India which supplies computer hardware and peripheral devices across India only. The have many stores across India such as surge stores, Nomad stores etc. The head office of the company is situated in Delhi.
 
-# Scenario
+## Scenario
 In order to this he has some of the regional managers in North, south and central India working for the company. So, he calls them and ask about the insights he wants to know. They tell him about the sales in last quarter and the growth in that quarter.
 
 So, the problem is that the conversations that are happening are verbal. Hence, the regional managers are sugar coating the facts and the manager of the company does not get the clear picture of the facts. Even after knowing that the sales are declining, he cannot do anything because he does not have the clear picture of the sales. 
@@ -34,3 +34,9 @@ AIMS grid: It is a project management tool which consists of four components to 
 In our case the end result will be the dashboard created and success criteria will be bumping up the sales using cost optimization and save the time of the manager of the company.
 
 ![image](https://user-images.githubusercontent.com/93335175/161311009-7dc79576-67a9-4a1a-a37a-2406fb43185e.png)
+
+Flowchart of the project execution
+![image](https://user-images.githubusercontent.com/93335175/161311070-1011c738-d8eb-4edd-b67a-914e158ba12b.png)
+
+# How will the company work
+
