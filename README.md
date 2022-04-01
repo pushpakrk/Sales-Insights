@@ -56,3 +56,4 @@ In this same manner our project is going to be executed. We are going to fetch t
 7. Load the data into the PowerBI desktop.
 8. Build a Dashboard or a Report.
 9. Publish the Report.
+[Dashboard.pdf](https://github.com/pushpakrk/Sales-Insights/files/8399777/Dashboard.pdf)
