@@ -21,3 +21,16 @@ All what the manager wants is a view of the weakest area the company need to foc
 Hence, by using such tools and technology one can make data driven decisions which helps to increase the sales of the company.
 
 So, in this project we will help a company make its own sales related dashboard using PowerBI.
+
+# Data Discovery
+Project planning using AIMS grid –
+AIMS grid: It is a project management tool which consists of four components to it.
+
+1) Purpose (what to do exactly)
+2) Stack holders (who will be involved)
+3) End result (what do you want to achieve)
+4) Success criteria (cost optimization and time save)
+
+In our case the end result will be the dashboard created and success criteria will be bumping up the sales using cost optimization and save the time of the manager of the company.
+
+![image](https://user-images.githubusercontent.com/93335175/161311009-7dc79576-67a9-4a1a-a37a-2406fb43185e.png)
