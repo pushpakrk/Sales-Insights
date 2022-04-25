@@ -7,7 +7,7 @@ Power BI Dashboard for the sales manager of a company to help him tracking sales
 
 
 ## Problem Statement
-AtliQ hardware is a company in India which supplies computer hardware and peripheral devices across India only. The have many stores across India such as surge stores, Nomad stores etc. The head office of the company is situated in Delhi.
+AtliQ hardware is a company in India which supplies computer hardware and peripheral devices across India only. The have many stores across India such as surge stores, Nomad stores etc. The head office of the company is situated in Delhi. with the manager as Bhavin Patel
 
 ## Scenario
 In order to this he has some of the regional managers in North, south and central India working for the company. So, he calls them and ask about the insights he wants to know. They tell him about the sales in last quarter and the growth in that quarter.
