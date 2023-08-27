@@ -57,3 +57,12 @@ In this same manner our project is going to be executed. We are going to fetch t
 8. Build a Dashboard or a Report.
 9. Publish the Report.
 [Dashboard.pdf](https://github.com/pushpakrk/Sales-Insights/files/8399777/Dashboard.pdf)
+
+
+## Screenshots from dashboard
+
+<img width="1278" alt="image" src="https://github.com/pushpakrk/Sales-Insights/assets/93335175/f35afbd6-68c1-479d-a550-aa5a9b3599dd">
+
+<img width="1279" alt="image" src="https://github.com/pushpakrk/Sales-Insights/assets/93335175/b6123fc4-c5de-400e-8556-251292544193">
+
+<img width="1279" alt="image" src="https://github.com/pushpakrk/Sales-Insights/assets/93335175/59ff11bb-6bb4-44e7-bda1-3e172cf96dd2">
